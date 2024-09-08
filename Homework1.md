@@ -10,7 +10,7 @@ public class Health: MonoBehaviour{
 }
 ```
 
-2. Create a public float called currentHealth and maxHealth.
+2. Create a public int called currentHealth and maxHealth.
 
 3. On Start set current health to max health
 
